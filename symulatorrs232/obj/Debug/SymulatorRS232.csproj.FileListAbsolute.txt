@@ -1,0 +1,21 @@
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\bin\Debug\SymulatorRS232.exe.config
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\bin\Debug\SymulatorRS232.exe
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\bin\Debug\SymulatorRS232.pdb
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\obj\Debug\SymulatorRS232.csprojResolveAssemblyReference.cache
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\obj\Debug\SymulatorRS232.NadajnikForm.resources
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\obj\Debug\SymulatorRS232.OdbiornikForm.resources
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\obj\Debug\SymulatorRS232.Properties.Resources.resources
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\obj\Debug\SymulatorRS232.csproj.GenerateResource.Cache
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\obj\Debug\SymulatorRS232.exe
+e:\ewe\dokumenty\visual studio 2015\Projects\SymulatorRS232\SymulatorRS232\obj\Debug\SymulatorRS232.pdb
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\bin\Debug\SymulatorRS232.exe.config
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\bin\Debug\SymulatorRS232.exe
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\bin\Debug\SymulatorRS232.pdb
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\obj\Debug\SymulatorRS232.csproj.AssemblyReference.cache
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\obj\Debug\SymulatorRS232.NadajnikForm.resources
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\obj\Debug\SymulatorRS232.OdbiornikForm.resources
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\obj\Debug\SymulatorRS232.Properties.Resources.resources
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\obj\Debug\SymulatorRS232.csproj.GenerateResource.cache
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\obj\Debug\SymulatorRS232.csproj.CoreCompileInputs.cache
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\obj\Debug\SymulatorRS232.exe
+C:\Users\pluto\OneDrive\Pulpit\rs232\SymulatorRS232\obj\Debug\SymulatorRS232.pdb
